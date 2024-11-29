@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\images\gpu-gaming.jpg" />
+    <Content Remove="wwwroot\images\monitor-gaming.jpg" />
+    <Content Remove="wwwroot\images\mouse-gaming.jpg" />
+    <Content Remove="wwwroot\images\ssd-1tb.jpg" />
+    <Content Remove="wwwroot\images\teclado-mecanico.jpg" />
+    <Content Remove="wwwroot\images\webcam-pro.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="wwwroot\images\gpu-gaming.jpg" />
+    <Resource Include="wwwroot\images\monitor-gaming.jpg" />
+    <Resource Include="wwwroot\images\mouse-gaming.jpg" />
+    <Resource Include="wwwroot\images\ssd-1tb.jpg" />
+    <Resource Include="wwwroot\images\teclado-mecanico.jpg" />
+    <Resource Include="wwwroot\images\webcam-pro.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|c:\\users\\pierocarusso\\source\\repos\\tienda\\tienda\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B77F4-5A45-4DE3-89C4-F8C69DC76F17}|Tienda\\Tienda.csproj|solutionrelative:tienda\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "Tienda\\Models\\AuthModels.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\AuthModels.cs",
+              "RelativeToolTip": "Tienda\\Models\\AuthModels.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:39:23.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Tienda\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Tienda\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:56:19.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Tienda\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Tienda\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:55:53.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Tienda\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\User.cs",
+              "RelativeToolTip": "Tienda\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:36:12.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Tienda\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Tienda\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA3wDgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:12:17.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Tienda\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Tienda\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:11:58.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Tienda\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\CartItem.cs",
+              "RelativeToolTip": "Tienda\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:07:32.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Tienda\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Models\\Product.cs",
+              "RelativeToolTip": "Tienda\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:04:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tienda\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tienda\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:57:26.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Program.cs",
+              "RelativeDocumentMoniker": "Tienda\\Program.cs",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Program.cs",
+              "RelativeToolTip": "Tienda\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:55:40.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\appsettings.json",
+              "RelativeDocumentMoniker": "Tienda\\appsettings.json",
+              "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\appsettings.json",
+              "RelativeToolTip": "Tienda\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T01:16:07.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

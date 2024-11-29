@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "IsGtewdHFwwgcaFkDmG693+QJik7G0v3VE1uq/emdXk=",
+  "Source": "Tienda",
+  "BasePath": "_content/Tienda",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tienda\\wwwroot",
+      "Source": "Tienda",
+      "ContentRoot": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\",
+      "BasePath": "_content/Tienda",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\auriculares-pro.jpg",
+      "SourceId": "Tienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\",
+      "BasePath": "_content/Tienda",
+      "RelativePath": "images/auriculares-pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cigoi66lr1",
+      "Integrity": "lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\auriculares-pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\laptop-gaming.jpg",
+      "SourceId": "Tienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\",
+      "BasePath": "_content/Tienda",
+      "RelativePath": "images/laptop-gaming#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y2q4qb43uk",
+      "Integrity": "9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\laptop-gaming.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\smartphone-x.jpg",
+      "SourceId": "Tienda",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\",
+      "BasePath": "_content/Tienda",
+      "RelativePath": "images/smartphone-x#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fljaqimbsk",
+      "Integrity": "s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\smartphone-x.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/auriculares-pro.cigoi66lr1.jpg",
+      "AssetFile": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\auriculares-pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cigoi66lr1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/auriculares-pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE="
+        }
+      ]
+    },
+    {
+      "Route": "images/auriculares-pro.jpg",
+      "AssetFile": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\auriculares-pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:40:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE="
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop-gaming.jpg",
+      "AssetFile": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\laptop-gaming.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c="
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop-gaming.y2q4qb43uk.jpg",
+      "AssetFile": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\laptop-gaming.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y2q4qb43uk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/laptop-gaming.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c="
+        }
+      ]
+    },
+    {
+      "Route": "images/smartphone-x.fljaqimbsk.jpg",
+      "AssetFile": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\smartphone-x.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fljaqimbsk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/smartphone-x.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU="
+        }
+      ]
+    },
+    {
+      "Route": "images/smartphone-x.jpg",
+      "AssetFile": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\wwwroot\\images\\smartphone-x.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU="
+        }
+      ]
+    }
+  ]
+}

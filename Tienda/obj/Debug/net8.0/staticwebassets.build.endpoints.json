@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "images/auriculares-pro.cigoi66lr1.jpg",
+      "AssetFile": "images/auriculares-pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:40:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cigoi66lr1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/auriculares-pro.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/auriculares-pro.jpg",
+      "AssetFile": "images/auriculares-pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:40:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDMz7IbVPEVt485gt8opafsora1r/v6luO6B5k3/hVE="
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop-gaming.jpg",
+      "AssetFile": "images/laptop-gaming.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c="
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop-gaming.y2q4qb43uk.jpg",
+      "AssetFile": "images/laptop-gaming.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y2q4qb43uk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jyIIxRbxqOtSnM46CrPPXNnueMF/YAGO+O+NViIM9c="
+        },
+        {
+          "Name": "label",
+          "Value": "images/laptop-gaming.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/smartphone-x.fljaqimbsk.jpg",
+      "AssetFile": "images/smartphone-x.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fljaqimbsk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU="
+        },
+        {
+          "Name": "label",
+          "Value": "images/smartphone-x.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/smartphone-x.jpg",
+      "AssetFile": "images/smartphone-x.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Nov 2024 01:39:47 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s4NVK5UVWkMDZjdI8f4NxgcSJDTI8mairB36aq6u3nU="
+        }
+      ]
+    }
+  ]
+}

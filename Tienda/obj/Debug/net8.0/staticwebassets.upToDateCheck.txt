@@ -1,0 +1,3 @@
+wwwroot\images\auriculares-pro.jpg
+wwwroot\images\laptop-gaming.jpg
+wwwroot\images\smartphone-x.jpg
