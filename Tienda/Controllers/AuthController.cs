@@ -112,14 +112,14 @@ namespace Tienda.Controllers
                     throw new InvalidOperationException("Token key no encontrada en la configuración");
                 }
 
-                // Aseguramos que la clave tenga el tamaño correcto
+                
                 while (Encoding.UTF8.GetBytes(tokenKey).Length < 64)
                 {
                     tokenKey += tokenKey;
                 }
 
                 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(tokenKey));
-                var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256); // Cambiamos a SHA256
+                var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256); 
 
                 var claims = new[]
                 {

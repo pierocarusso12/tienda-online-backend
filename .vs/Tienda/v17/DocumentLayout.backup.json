@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Tienda\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\pierocarusso\\source\\repos\\Tienda\\Tienda\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Tienda\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T05:56:19.166Z",
               "EditorCaption": ""
@@ -167,8 +167,7 @@
               "RelativeToolTip": "Tienda\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T05:04:57.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T05:04:57.422Z"
             },
             {
               "$type": "Document",
@@ -180,8 +179,7 @@
               "RelativeToolTip": "Tienda\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:57:26.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T04:57:26.636Z"
             },
             {
               "$type": "Document",
@@ -193,8 +191,7 @@
               "RelativeToolTip": "Tienda\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:55:40.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T04:55:40.407Z"
             },
             {
               "$type": "Document",

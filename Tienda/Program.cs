@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 var tokenKey = builder.Configuration["AppSettings:Token"] ??
     throw new InvalidOperationException("Token no configurado en appsettings.json");
 
-// Asegurar longitud mínima del token
+
 while (Encoding.UTF8.GetBytes(tokenKey).Length < 64)
 {
     tokenKey += tokenKey;

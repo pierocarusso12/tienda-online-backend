@@ -2,7 +2,7 @@
 
 namespace Tienda.Models
 {
-    // Cambiamos los nombres para evitar conflictos
+   
     public class UserLoginRequest
     {
         [Required]
